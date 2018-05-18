@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- Male Christmas2017 tattoos -->
+	<Item>
+	  <id value="4000"/>
+	  <cost value="696900"/>
+	  <textLabel>TAT_H27_000</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_000_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4001"/>
+	  <cost value="696901"/>
+	  <textLabel>TAT_H27_001</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_001_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4002"/>
+	  <cost value="696902"/>
+	  <textLabel>TAT_H27_002</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_002_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4003"/>
+	  <cost value="696903"/>
+	  <textLabel>TAT_H27_003</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_003_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4004"/>
+	  <cost value="696904"/>
+	  <textLabel>TAT_H27_004</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_004_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4005"/>
+	  <cost value="696905"/>
+	  <textLabel>TAT_H27_005</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_005_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4006"/>
+	  <cost value="696906"/>
+	  <textLabel>TAT_H27_006</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_006_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4007"/>
+	  <cost value="696907"/>
+	  <textLabel>TAT_H27_007</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_007_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4008"/>
+	  <cost value="696908"/>
+	  <textLabel>TAT_H27_008</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_008_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4009"/>
+	  <cost value="696909"/>
+	  <textLabel>TAT_H27_009</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_009_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4010"/>
+	  <cost value="696910"/>
+	  <textLabel>TAT_H27_010</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_010_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4011"/>
+	  <cost value="696911"/>
+	  <textLabel>TAT_H27_011</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_011_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4012"/>
+	  <cost value="696912"/>
+	  <textLabel>TAT_H27_012</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_012_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4013"/>
+	  <cost value="696913"/>
+	  <textLabel>TAT_H27_013</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_013_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4014"/>
+	  <cost value="696914"/>
+	  <textLabel>TAT_H27_014</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_014_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4015"/>
+	  <cost value="696915"/>
+	  <textLabel>TAT_H27_015</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_015_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4016"/>
+	  <cost value="696916"/>
+	  <textLabel>TAT_H27_016</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_016_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4017"/>
+	  <cost value="696917"/>
+	  <textLabel>TAT_H27_017</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_017_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4018"/>
+	  <cost value="696918"/>
+	  <textLabel>TAT_H27_018</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_018_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4019"/>
+	  <cost value="696919"/>
+	  <textLabel>TAT_H27_019</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_019_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4020"/>
+	  <cost value="696920"/>
+	  <textLabel>TAT_H27_020</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_020_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_STOM_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4021"/>
+	  <cost value="696921"/>
+	  <textLabel>TAT_H27_021</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_021_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4022"/>
+	  <cost value="696922"/>
+	  <textLabel>TAT_H27_022</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_022_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4023"/>
+	  <cost value="696923"/>
+	  <textLabel>TAT_H27_023</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_023_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4024"/>
+	  <cost value="696924"/>
+	  <textLabel>TAT_H27_024</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_024_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4025"/>
+	  <cost value="696925"/>
+	  <textLabel>TAT_H27_025</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_025_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4026"/>
+	  <cost value="696926"/>
+	  <textLabel>TAT_H27_026</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_026_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4027"/>
+	  <cost value="696927"/>
+	  <textLabel>TAT_H27_027</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_027_M</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4028"/>
+	  <cost value="696928"/>
+	  <textLabel>TAT_H27_028</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_028_M</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4029"/>
+	  <cost value="696929"/>
+	  <textLabel>TAT_H27_029</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_029_M</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM</eFaction>
+	  <lockHash />
+	</Item>
+	
+	<!-- Female Christmas2017 tattoos -->
+	<Item>
+	  <id value="4050"/>
+	  <cost value="696900"/>
+	  <textLabel>TAT_H27_000</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_000_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4051"/>
+	  <cost value="696901"/>
+	  <textLabel>TAT_H27_001</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_001_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4052"/>
+	  <cost value="696902"/>
+	  <textLabel>TAT_H27_002</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_002_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4053"/>
+	  <cost value="696903"/>
+	  <textLabel>TAT_H27_003</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_003_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_RIGHT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4054"/>
+	  <cost value="696904"/>
+	  <textLabel>TAT_H27_004</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_004_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4055"/>
+	  <cost value="696905"/>
+	  <textLabel>TAT_H27_005</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_005_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4056"/>
+	  <cost value="696906"/>
+	  <textLabel>TAT_H27_006</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_006_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4057"/>
+	  <cost value="696907"/>
+	  <textLabel>TAT_H27_007</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_007_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4058"/>
+	  <cost value="696908"/>
+	  <textLabel>TAT_H27_008</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_008_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>STOMACH_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4059"/>
+	  <cost value="696909"/>
+	  <textLabel>TAT_H27_009</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_009_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4060"/>
+	  <cost value="696910"/>
+	  <textLabel>TAT_H27_010</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_010_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_UPPER</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4061"/>
+	  <cost value="696911"/>
+	  <textLabel>TAT_H27_011</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_011_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4062"/>
+	  <cost value="696912"/>
+	  <textLabel>TAT_H27_012</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_012_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4063"/>
+	  <cost value="696913"/>
+	  <textLabel>TAT_H27_013</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_013_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4064"/>
+	  <cost value="696914"/>
+	  <textLabel>TAT_H27_014</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_014_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4065"/>
+	  <cost value="696915"/>
+	  <textLabel>TAT_H27_015</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_015_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4066"/>
+	  <cost value="696916"/>
+	  <textLabel>TAT_H27_016</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_016_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4067"/>
+	  <cost value="696917"/>
+	  <textLabel>TAT_H27_017</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_017_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4068"/>
+	  <cost value="696918"/>
+	  <textLabel>TAT_H27_018</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_018_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4069"/>
+	  <cost value="696919"/>
+	  <textLabel>TAT_H27_019</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_019_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4070"/>
+	  <cost value="696920"/>
+	  <textLabel>TAT_H27_020</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_020_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_STOM_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4071"/>
+	  <cost value="696921"/>
+	  <textLabel>TAT_H27_021</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_021_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4072"/>
+	  <cost value="696922"/>
+	  <textLabel>TAT_H27_022</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_022_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4073"/>
+	  <cost value="696923"/>
+	  <textLabel>TAT_H27_023</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_023_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4074"/>
+	  <cost value="696924"/>
+	  <textLabel>TAT_H27_024</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_024_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4075"/>
+	  <cost value="696925"/>
+	  <textLabel>TAT_H27_025</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_025_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4076"/>
+	  <cost value="696926"/>
+	  <textLabel>TAT_H27_026</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_026_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_FRONT</eFacing>
+	  <updateGroup>CHEST_LEFT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4077"/>
+	  <cost value="696927"/>
+	  <textLabel>TAT_H27_027</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_027_F</preset>
+	  <zone>PDZ_TORSO</zone>
+	  <eFacing>TATTOO_BACK</eFacing>
+	  <updateGroup>BACK_FULL_SHORT</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4078"/>
+	  <cost value="696928"/>
+	  <textLabel>TAT_H27_028</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_028_F</preset>
+	  <zone>PDZ_RIGHT_ARM</zone>
+	  <eFacing>TATTOO_RIGHT</eFacing>
+	  <updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+	<Item>
+	  <id value="4079"/>
+	  <cost value="696929"/>
+	  <textLabel>TAT_H27_029</textLabel>
+	  <collection>mpChristmas2017_overlays</collection>
+	  <preset>MP_Christmas2017_Tattoo_029_F</preset>
+	  <zone>PDZ_LEFT_ARM</zone>
+	  <eFacing>TATTOO_LEFT</eFacing>
+	  <updateGroup>ARM_LEFT_FULL_SLEEVE</updateGroup>
+	  <eFaction>TATTOO_MP_FM_F</eFaction>
+	  <lockHash />
+	</Item>
+
+  
+  </TattooShopItems>
+</TattooShopItemArray>

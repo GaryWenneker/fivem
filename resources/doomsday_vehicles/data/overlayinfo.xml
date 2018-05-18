@@ -1,0 +1,16 @@
+<sOverlayInfos>
+	<overlayInfos>
+		<Item>
+			<nameId>christmas2017_interior_additions</nameId>
+			<changeSet>MPCHRISTMAS2017_INTERIOR_ADDITIONS</changeSet>
+			<version value="1"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>
+		<Item>
+			<nameId>christmas2017_map_update</nameId>
+			<changeSet>MPCHRISTMAS2017_MAP_UPDATE</changeSet>
+			<version value="1"/>
+			<changeSetGroupToExecuteWith>GROUP_MAP</changeSetGroupToExecuteWith>
+		</Item>
+	</overlayInfos>
+</sOverlayInfos>

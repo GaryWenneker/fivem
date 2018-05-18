@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPedInventoryLoadOutManager>
+  <LoadOuts>
+    <Item>
+      <Name>LOADOUT_CHEAT_0</Name>
+      <Items>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_BULLPUPRIFLE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_MARKSMANRIFLE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_PUMPSHOTGUN_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_REVOLVER_MK2</WeaponName>
+          <Ammo value="50" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_SNSPISTOL_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_SPECIALCARBINE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+          <Ammo value="100" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+	  </Items>
+    </Item>
+    <Item>
+      <Name>LOADOUT_CHEAT_1</Name>
+      <Items>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_BULLPUPRIFLE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_BULLPUPRIFLE_MK2_CLIP_ARMORPIERCING</Item>
+            <Item>COMPONENT_AT_AR_FLSH</Item>
+            <Item>COMPONENT_AT_SIGHTS</Item>
+            <Item>COMPONENT_AT_BP_BARREL_02</Item>
+            <Item>COMPONENT_AT_MUZZLE_01</Item>
+            <Item>COMPONENT_AT_AR_AFGRIP_02</Item>
+            <Item>COMPONENT_BULLPUPRIFLE_MK2_CAMO</Item>
+          </ComponentNames>
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_MARKSMANRIFLE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_MARKSMANRIFLE_MK2_CLIP_INCENDIARY</Item>
+            <Item>COMPONENT_AT_SIGHTS</Item>
+            <Item>COMPONENT_AT_AR_FLSH</Item>
+            <Item>COMPONENT_AT_MUZZLE_01</Item>
+            <Item>COMPONENT_AT_AR_AFGRIP_02</Item>
+            <Item>COMPONENT_AT_MRFL_BARREL_02</Item>
+            <Item>COMPONENT_MARKSMANRIFLE_MK2_CAMO</Item>
+          </ComponentNames>
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_PUMPSHOTGUN_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_PUMPSHOTGUN_MK2_CLIP_EXPLOSIVE</Item>
+            <Item>COMPONENT_AT_SIGHTS</Item>
+            <Item>COMPONENT_AT_AR_FLSH</Item>
+            <Item>COMPONENT_AT_MUZZLE_08</Item>
+            <Item>COMPONENT_PUMPSHOTGUN_MK2_CAMO</Item>
+          </ComponentNames>
+        </Item>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_REVOLVER_MK2</WeaponName>
+          <Ammo value="50" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_REVOLVER_MK2_CLIP_INCENDIARY</Item>
+            <Item>COMPONENT_AT_SIGHTS</Item>
+            <Item>COMPONENT_AT_PI_FLSH</Item>
+            <Item>COMPONENT_AT_PI_COMP_03</Item>
+            <Item>COMPONENT_REVOLVER_MK2_CAMO</Item>
+          </ComponentNames>
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_SNSPISTOL_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_SNSPISTOL_MK2_CLIP_FMJ</Item>
+            <Item>COMPONENT_AT_PI_FLSH_03</Item>
+            <Item>COMPONENT_AT_PI_RAIL_02</Item>
+            <Item>COMPONENT_AT_PI_COMP_02</Item>
+            <Item>COMPONENT_SNSPISTOL_MK2_CAMO</Item>
+            <Item>COMPONENT_SNSPISTOL_MK2_CAMO_SLIDE</Item>
+          </ComponentNames>
+        </Item>
+		<Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_SPECIALCARBINE_MK2</WeaponName>
+          <Ammo value="500" />
+          <Flags />
+          <ComponentNames>
+            <Item>COMPONENT_SPECIALCARBINE_MK2_CLIP_TRACER</Item>
+            <Item>COMPONENT_AT_AR_FLSH</Item>
+            <Item>COMPONENT_AT_SIGHTS</Item>
+            <Item>COMPONENT_AT_MUZZLE_01</Item>
+            <Item>COMPONENT_AT_AR_AFGRIP_02</Item>
+            <Item>COMPONENT_AT_SC_BARREL_02</Item>
+            <Item>COMPONENT_SPECIALCARBINE_MK2_CAMO</Item>
+          </ComponentNames>
+        </Item>
+        <Item type="CLoadOutWeapon">
+          <WeaponName>WEAPON_DOUBLEACTION</WeaponName>
+          <Ammo value="100" />
+          <Flags />
+          <ComponentNames />
+        </Item>
+	  </Items>
+    </Item>
+  </LoadOuts>
+</CPedInventoryLoadOutManager>

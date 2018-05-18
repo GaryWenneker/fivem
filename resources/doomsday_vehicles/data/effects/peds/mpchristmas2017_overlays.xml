@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+	<Item>
+      <uvPos x="0.825000" y="0.600000" />
+      <scale x="0.100000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_000_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_000</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_000</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.835000" y="0.640000" />
+      <scale x="0.100000" y="0.090000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_000_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_000</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_000</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.490000" y="0.800000" />
+      <scale x="0.110000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_001_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_001</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_001</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.525000" y="0.800000" />
+      <scale x="0.130000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_001_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_001</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_001</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.135000" y="0.640000" />
+      <scale x="0.130000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_002_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_002</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_002</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.145000" y="0.680000" />
+      <scale x="0.130000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_002_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_002</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_002</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.640000" y="0.610000" />
+      <scale x="0.100000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_003_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_003</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_003</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.640000" y="0.640000" />
+      <scale x="0.130000" y="0.110000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_003_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_003</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_003</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.490000" y="0.600000" />
+      <scale x="0.210000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_004_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_004</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_004</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.540000" y="0.580000" />
+      <scale x="0.240000" y="0.310000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_004_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_004</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_004</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.540000" />
+      <scale x="0.210000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_005_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_005</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.580000" />
+      <scale x="0.210000" y="0.230000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_005_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_005</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_005</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.525000" y="0.650000" />
+      <scale x="0.250000" y="0.320000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_006_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_006</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_006</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.515000" y="0.630000" />
+      <scale x="0.250000" y="0.310000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_006_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_006</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_006</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.250000" y="0.280000" />
+      <rotation value="15.120000" />
+      <nameHash>MP_Christmas2017_Tattoo_007_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_007</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_007</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.450000" y="0.600000" />
+      <scale x="0.250000" y="0.300000" />
+      <rotation value="15.120000" />
+      <nameHash>MP_Christmas2017_Tattoo_007_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_007</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_007</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.725000" y="0.315000" />
+      <scale x="0.200000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_008_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_008</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_008</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.725000" y="0.355000" />
+      <scale x="0.200000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_008_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_008</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_008</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.640000" />
+      <scale x="0.150000" y="0.170000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_009_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_009</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_009</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.680000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_009_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_009</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_009</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.570000" />
+      <scale x="0.210000" y="0.260000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_010_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_010</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_010</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.620000" />
+      <scale x="0.210000" y="0.220000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_010_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_010</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_010</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.225000" y="0.490000" />
+      <scale x="0.235000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_011_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_011</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_011</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.580000" />
+      <scale x="0.255000" y="0.255000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_011_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_011</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_011</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.460000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_012_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_012</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_012</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.530000" y="0.415000" />
+      <scale x="0.180000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_012_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_012</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_012</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.380000" y="0.610000" />
+      <scale x="0.320000" y="0.270000" />
+      <rotation value="27.720000" />
+      <nameHash>MP_Christmas2017_Tattoo_013_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_013</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_013</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.380000" y="0.610000" />
+      <scale x="0.320000" y="0.300000" />
+      <rotation value="27.720000" />
+      <nameHash>MP_Christmas2017_Tattoo_013_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_013</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_013</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.740000" />
+      <scale x="0.210000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_014_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_014</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_014</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.750000" />
+      <scale x="0.210000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_014_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_014</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_014</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.540000" />
+      <scale x="0.210000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_015_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_015</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_015</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.600000" />
+      <scale x="0.210000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_015_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_015</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_015</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.480000" />
+      <scale x="0.223000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_016_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_016</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_016</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.230000" y="0.570000" />
+      <scale x="0.223000" y="0.230000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_016_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_016</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_016</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.435000" y="0.640000" />
+      <scale x="0.250000" y="0.340000" />
+      <rotation value="164.880000" />
+      <nameHash>MP_Christmas2017_Tattoo_017_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_017</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_017</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.435000" y="0.610000" />
+      <scale x="0.250000" y="0.360000" />
+      <rotation value="164.880000" />
+      <nameHash>MP_Christmas2017_Tattoo_017_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_017</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_017</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.430000" y="0.510000" />
+      <scale x="0.230000" y="0.220000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_018_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_018</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_018</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.430000" y="0.470000" />
+      <scale x="0.230000" y="0.230000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_018_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_018</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_018</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.820000" y="0.580000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_019_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_019</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_019</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.820000" y="0.620000" />
+      <scale x="0.100000" y="0.080000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_019_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_019</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_019</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.735000" y="0.460000" />
+      <scale x="0.230000" y="0.230000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_020_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_020</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_020</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.735000" y="0.520000" />
+      <scale x="0.230000" y="0.210000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_020_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_020</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_020</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.220000" y="0.570000" />
+      <scale x="0.230000" y="0.250000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_021_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_021</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_021</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.220000" y="0.630000" />
+      <scale x="0.230000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_021_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_021</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_021</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.220000" y="0.480000" />
+      <scale x="0.265000" y="0.330000" />
+      <rotation value="-6.480000" />
+      <nameHash>MP_Christmas2017_Tattoo_022_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_022</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_022</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.220000" y="0.540000" />
+      <scale x="0.300000" y="0.260000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_022_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_022</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_022</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.600000" />
+      <scale x="0.210000" y="0.300000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_023_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_023</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_023</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.550000" y="0.600000" />
+      <scale x="0.210000" y="0.330000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_023_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_023</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_023</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.225000" y="0.600000" />
+      <scale x="0.190000" y="0.210000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_024_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_024</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_024</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.225000" y="0.640000" />
+      <scale x="0.190000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_024_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_024</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_024</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.640000" />
+      <scale x="0.210000" y="0.310000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_025_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_025</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_025</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.640000" />
+      <scale x="0.210000" y="0.340000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_025_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_025</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_025</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.835000" y="0.610000" />
+      <scale x="0.150000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_026_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_026</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_026</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.835000" y="0.630000" />
+      <scale x="0.150000" y="0.110000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_026_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_026</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_026</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.228000" y="0.570000" />
+      <scale x="0.205000" y="0.230000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_027_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_027</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_027</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.228000" y="0.640000" />
+      <scale x="0.200000" y="0.170000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_027_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_027</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_027</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.725000" />
+      <scale x="0.147000" y="0.220000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_028_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_028</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_028</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.235000" y="0.720000" />
+      <scale x="0.147000" y="0.210000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_028_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_028</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_028</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.530000" y="0.590000" />
+      <scale x="0.230000" y="0.280000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_029_M</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_029</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_029</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.530000" y="0.600000" />
+      <scale x="0.230000" y="0.310000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Christmas2017_Tattoo_029_F</nameHash>
+      <txdHash>MP_Christmas2017_Tattoo_029</txdHash>
+      <txtHash>MP_Christmas2017_Tattoo_029</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+  </presets>
+  <nameHash>mpChristmas2017_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000	
+    0.370000	0.070000	
+    0.600000	0.070000	
+    0.835000	0.070000	
+    0.140000	0.150000	
+    0.370000	0.150000	
+    0.600000	0.150000	
+    0.835000	0.150000	
+    0.140000	0.230000	
+    0.370000	0.230000	
+    0.600000	0.230000	
+    0.835000	0.230000	
+    0.100000	0.700000	
+    0.300000	0.700000	
+    0.500000	0.700000	
+    0.700000	0.700000	
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

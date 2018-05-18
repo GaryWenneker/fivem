@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+		<!-- female -->
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_christmas2017/jbib_003_u</assetName>
+            <alternate value="2" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_christmas2017/jbib_006_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_christmas2017/jbib_007_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_christmas2017/jbib_010_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_F_Freemode_01_mp_f_christmas2017/jbib_012_u</assetName>
+            <alternate value="1" />
+        </Item>
+		
+		<!-- male -->
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_christmas2017/jbib_003_u</assetName>
+            <alternate value="2" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_christmas2017/jbib_006_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_christmas2017/jbib_007_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_christmas2017/jbib_010_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_mp_m_christmas2017/jbib_012_u</assetName>
+            <alternate value="1" />
+        </Item>
+    </alternates>
+</FirstPersonAlternateData>

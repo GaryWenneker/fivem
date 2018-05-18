@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<CPickupDataManager>
+  <pickupData>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_BULLPUPRIFLE_MK2</Name>
+      <Model>W_AR_BullpupRifleMK2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_RIFLE</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_BULLPUPRIFLE_MK2</Item>
+        <Item>REWARD_AMMO_BULLPUPRIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_DOUBLEACTION</Name>
+      <Model>W_PI_Wep1_Gun</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_DOUBLEACTION</Item>
+        <Item>REWARD_AMMO_DOUBLEACTION</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_MARKSMANRIFLE_MK2</Name>
+      <Model>w_sr_marksmanriflemk2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_RIFLE</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_MARKSMANRIFLE_MK2</Item>
+        <Item>REWARD_AMMO_MARKSMANRIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_PUMPSHOTGUN_MK2</Name>
+      <Model>w_sg_pumpshotgunmk2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+	  <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+      <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_SHOTGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN_MK2</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_REVOLVER_MK2</Name>
+      <Model>w_pi_revolvermk2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_REVOLVER_MK2</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+	<Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SNSPISTOL_MK2</Name>
+      <Model>W_PI_SNS_PistolMK2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_HANDGUN</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SNSPISTOL_MK2</Item>
+        <Item>REWARD_AMMO_SNSPISTOL</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+    <Item type="CPickupData">
+      <Name>PICKUP_WEAPON_SPECIALCARBINE_MK2</Name>
+      <Model>w_ar_specialcarbinemk2</Model>
+      <GenerationRange value="80.000000" />
+      <RegenerationTime value="60.000000" />
+      <CollectionRadiusFirstPerson value="2.000000" />
+      <CollectionRadius value="1.000000" />
+      <Scale value="1.000000" />
+      <LoopingAudioRef>NULL_SOUND</LoopingAudioRef>
+      <GlowRed value="1.000000" />
+      <GlowGreen value="0.225000" />
+      <GlowBlue value="0.000000" />
+      <GlowIntensity value="0.500000" />
+	  <DarkGlowIntensity value="0.500000" />
+      <MPGlowIntensity value="0.500000" />
+      <MPDarkGlowIntensity value="3.000000" />
+      <GlowRange value="2.000000" />
+      <AttachmentBone>BONETAG_ROOT</AttachmentBone>
+      <AttachmentOffset x="0.000000" y="0.000000" z="0.000000" />
+      <AttachmentRotation x="0.000000" y="0.000000" z="0.000000" />
+      <PickupFlags>CollectableOnFoot ManualPickUp</PickupFlags>
+      <OnFootPickupActions>
+        <Item>ACTION_GROUP_ONFOOT</Item>
+        <Item>ACTION_AUDIO_RIFLE</Item>
+      </OnFootPickupActions>
+      <InCarPickupActions />
+      <OnShotPickupActions />
+      <Rewards>
+        <Item>REWARD_WEAPON_SPECIALCARBINE_MK2</Item>
+        <Item>REWARD_AMMO_SPECIALCARBINE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </Rewards>
+    </Item>
+ </pickupData>
+  <actionData/>
+  <rewardData>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_BULLPUPRIFLE_MK2</Name>
+      <WeaponRef>WEAPON_BULLPUPRIFLE_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+	<Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_DOUBLEACTION</Name>
+      <WeaponRef>WEAPON_DOUBLEACTION</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_MARKSMANRIFLE_MK2</Name>
+      <WeaponRef>WEAPON_MARKSMANRIFLE_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_PUMPSHOTGUN_MK2</Name>
+      <WeaponRef>WEAPON_PUMPSHOTGUN_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_REVOLVER_MK2</Name>
+      <WeaponRef>WEAPON_REVOLVER_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_SNSPISTOL_MK2</Name>
+      <WeaponRef>WEAPON_SNSPISTOL_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardWeapon">
+      <Name>REWARD_WEAPON_SPECIALCARBINE_MK2</Name>
+      <WeaponRef>WEAPON_SPECIALCARBINE_MK2</WeaponRef>
+      <Equip value="false" />
+    </Item>
+    <Item type="CPickupRewardAmmo">
+      <Name>REWARD_AMMO_DOUBLEACTION</Name>
+      <AmmoRef>AMMO_PISTOL</AmmoRef>
+      <Amount value="6" />
+    </Item>
+  </rewardData>
+</CPickupDataManager>
