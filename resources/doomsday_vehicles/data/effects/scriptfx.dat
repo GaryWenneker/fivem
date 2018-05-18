@@ -1,0 +1,30 @@
+2.00
+
+SCRIPTFX_INFO_START
+
+GB_GANGOPS				scr_xm_spybomb
+
+SCRIPTFX_INFO_END
+
+
+CUTSCENEFX_INFO_START
+
+SIL_INT					cut_sil
+SIL_INT_P1_T08			cut_sil
+SIL_INT_P1_T09			cut_sil
+SIL_PRED_MCS1			cut_sil
+SIL_PRED_MCS1_P1		cut_sil
+SILJ_MCS0				cut_silj
+SILJ_MCS0_P0_T01		cut_silj
+SILJ_MCS2				cut_silj
+SILJ_MCS2_P1_T03		cut_silj
+SILJ_MCS2_P1A1_T03		cut_silj
+IAAJ_EXT				cut_iaaj
+SUBJ_MCS0				veh_stromberg
+SUBJ_MCS0_P0_T01		veh_stromberg
+SUBJ_MCS1				cut_sil
+SUBJ_MCS1_P1_T04		cut_sil
+
+
+CUTSCENEFX_INFO_END
+

@@ -1,0 +1,3304 @@
+<FirstPersonAssetDataManager>
+  <peds>
+  <!-- Female christmas2017 Setup -->
+    <Item>
+      <name>MP_f_Freemode_01</name>
+      <!-- female -->
+	  <objects>
+        <!-- 000 scuba mask -->
+        <Item>
+          <localIndex value="0" />
+          <eCompType>PV_COMP_MAX</eCompType>
+          <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- t  -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- u  -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- v  -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- w  -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- x  -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- y  -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- z  -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId>
+          </audioId>
+          <flags value="0" />
+          <fpsPropModel>Prop_mask_flight</fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="-0.056000" z="-0.07500" />
+          <seWeather value="1.0" />
+          <seEnvironment value="1.0" />
+          <seDamage value="1.0" />
+          <putOnAnim>
+            <timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+            <maxIntensity value="1.0" />
+            <duration value="0.4" />
+            <delay value="0.6" />
+          </putOnAnim>
+          <takeOffAnim>
+            <timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+            <maxIntensity value="1.0" />
+            <duration value="0.4" />
+            <delay value="0.1" />
+          </takeOffAnim>
+        </Item>
+		<Item><!-- 002 specops helmet -->
+			<localIndex value="2" />
+			<eCompType>PV_COMP_MAX</eCompType>
+			<eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+			<dlcHash>mp_f_christmas2017</dlcHash>
+			<timeCycleMods>
+				<Item> <!-- a  -->
+					<textureId value="0" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- b  -->
+					<textureId value="1" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- c  -->
+					<textureId value="2" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- d  -->
+					<textureId value="3" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- e  -->
+					<textureId value="4" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- f  -->
+					<textureId value="5" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- g  -->
+					<textureId value="6" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- h  -->
+					<textureId value="7" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- i  -->
+					<textureId value="8" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- j  -->
+					<textureId value="9" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- k  -->
+					<textureId value="10" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- l  -->
+					<textureId value="11" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- m  -->
+					<textureId value="12" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- n  -->
+					<textureId value="13" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- o  -->
+					<textureId value="14" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- p  -->
+					<textureId value="15" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- q  -->
+					<textureId value="16" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- r  -->
+					<textureId value="17" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- s  -->
+					<textureId value="18" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- t  -->
+					<textureId value="19" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+			</timeCycleMods>
+			<audioId>
+			</audioId>
+			<flags value="0" />
+			<fpsPropModel>Prop_Mask_motobike_b</fpsPropModel>
+			<fpsPropModelOffset x="0.000000" y="-0.023000" z="-0.045000" />
+			<seWeather value="1.0" />
+			<seEnvironment value="1.0" />
+			<seDamage value="1.0" />
+			<putOnAnim>
+				<timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.6" />
+			</putOnAnim>
+			<takeOffAnim>
+				<timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.1" />
+			</takeOffAnim>
+		</Item>
+		<Item><!-- 004 riot helmet -->
+			<localIndex value="4" />
+			<eCompType>PV_COMP_MAX</eCompType>
+			<eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+			<dlcHash>mp_f_christmas2017</dlcHash>
+			<timeCycleMods>
+				<Item> <!-- a  -->
+					<textureId value="0" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- b  -->
+					<textureId value="1" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- c  -->
+					<textureId value="2" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- d  -->
+					<textureId value="3" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- e  -->
+					<textureId value="4" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- f  -->
+					<textureId value="5" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- g  -->
+					<textureId value="6" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- h  -->
+					<textureId value="7" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- i  -->
+					<textureId value="8" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- j  -->
+					<textureId value="9" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- k  -->
+					<textureId value="10" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- l  -->
+					<textureId value="11" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- m  -->
+					<textureId value="12" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- n  -->
+					<textureId value="13" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- o  -->
+					<textureId value="14" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- p  -->
+					<textureId value="15" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- q  -->
+					<textureId value="16" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- r  -->
+					<textureId value="17" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- s  -->
+					<textureId value="18" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- t  -->
+					<textureId value="19" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- u  -->
+					<textureId value="20" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- v  -->
+					<textureId value="21" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- w  -->
+					<textureId value="22" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+			</timeCycleMods>
+			<audioId>
+			</audioId>
+			<flags value="0" />
+			<fpsPropModel>Prop_Mask_motobike_b</fpsPropModel>
+			<fpsPropModelOffset x="0.000000" y="-0.023000" z="-0.045000" />
+			<seWeather value="1.0" />
+			<seEnvironment value="1.0" />
+			<seDamage value="1.0" />
+			<putOnAnim>
+				<timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.6" />
+			</putOnAnim>
+			<takeOffAnim>
+				<timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.1" />
+			</takeOffAnim>
+		</Item>
+        <Item>
+          <!-- 002 morph -->
+          <localIndex value="2" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 003 Painted Hockey -->
+          <localIndex value="3" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- s -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- t -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- u -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- v -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- w -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- x -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 004 Ballistic -->
+          <localIndex value="4" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- t  -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- u  -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- v  -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- w  -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- x  -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- y  -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- z  -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 005 spec ops -->
+          <localIndex value="5" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>          
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		 
+        </Item>
+        <Item>
+          <!-- 006 Hockey Gingerbread -->
+          <localIndex value="6" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 007 Falseface -->
+          <localIndex value="7" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>	  
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 008 Ballistic Gas -->
+          <localIndex value="8" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 009 Tactical Respirator -->
+          <localIndex value="9" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item> 
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item> 
+		  </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 010 Krumpus -->
+          <localIndex value="10" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />		  
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>
+		</Item>
+        <Item>
+          <!-- 011 NV Comms -->
+          <localIndex value="11" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_f_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- s -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- t -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- u -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- v -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- w -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- x -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- y -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- z -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+      </objects>
+	</Item>
+
+  <!-- Male christmas2017 Setup -->
+    <Item>
+      <name>MP_m_Freemode_01</name>
+      <!-- male -->
+      <objects>        <!-- 000 scuba mask -->
+        <Item>
+          <localIndex value="0" />
+          <eCompType>PV_COMP_MAX</eCompType>
+          <eAnchorPoint>ANCHOR_EYES</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- t  -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- u  -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- v  -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- w  -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- x  -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- y  -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- z  -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>glasses_visor</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId>
+          </audioId>
+          <flags value="0" />
+          <fpsPropModel>Prop_mask_flight</fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="-0.056000" z="-0.07500" />
+          <seWeather value="1.0" />
+          <seEnvironment value="1.0" />
+          <seDamage value="1.0" />
+          <putOnAnim>
+            <timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+            <maxIntensity value="1.0" />
+            <duration value="0.4" />
+            <delay value="0.6" />
+          </putOnAnim>
+          <takeOffAnim>
+            <timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+            <maxIntensity value="1.0" />
+            <duration value="0.4" />
+            <delay value="0.1" />
+          </takeOffAnim>
+        </Item>
+		<Item><!-- 002 specops helmet -->
+			<localIndex value="2" />
+			<eCompType>PV_COMP_MAX</eCompType>
+			<eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+			<dlcHash>mp_m_christmas2017</dlcHash>
+			<timeCycleMods>
+				<Item> <!-- a  -->
+					<textureId value="0" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- b  -->
+					<textureId value="1" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- c  -->
+					<textureId value="2" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- d  -->
+					<textureId value="3" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- e  -->
+					<textureId value="4" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- f  -->
+					<textureId value="5" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- g  -->
+					<textureId value="6" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- h  -->
+					<textureId value="7" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- i  -->
+					<textureId value="8" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- j  -->
+					<textureId value="9" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- k  -->
+					<textureId value="10" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- l  -->
+					<textureId value="11" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- m  -->
+					<textureId value="12" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- n  -->
+					<textureId value="13" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- o  -->
+					<textureId value="14" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- p  -->
+					<textureId value="15" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- q  -->
+					<textureId value="16" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- r  -->
+					<textureId value="17" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- s  -->
+					<textureId value="18" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- t  -->
+					<textureId value="19" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+			</timeCycleMods>
+			<audioId>
+			</audioId>
+			<flags value="0" />
+			<fpsPropModel>Prop_Mask_motobike_b</fpsPropModel>
+			<fpsPropModelOffset x="0.000000" y="-0.023000" z="-0.045000" />
+			<seWeather value="1.0" />
+			<seEnvironment value="1.0" />
+			<seDamage value="1.0" />
+			<putOnAnim>
+				<timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.6" />
+			</putOnAnim>
+			<takeOffAnim>
+				<timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.1" />
+			</takeOffAnim>
+		</Item>
+		<Item><!-- 004 riot helmet -->
+			<localIndex value="4" />
+			<eCompType>PV_COMP_MAX</eCompType>
+			<eAnchorPoint>ANCHOR_HEAD</eAnchorPoint>
+			<dlcHash>mp_m_christmas2017</dlcHash>
+			<timeCycleMods>
+				<Item> <!-- a  -->
+					<textureId value="0" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- b  -->
+					<textureId value="1" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- c  -->
+					<textureId value="2" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- d  -->
+					<textureId value="3" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- e  -->
+					<textureId value="4" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- f  -->
+					<textureId value="5" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- g  -->
+					<textureId value="6" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- h  -->
+					<textureId value="7" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- i  -->
+					<textureId value="8" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- j  -->
+					<textureId value="9" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- k  -->
+					<textureId value="10" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- l  -->
+					<textureId value="11" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- m  -->
+					<textureId value="12" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- n  -->
+					<textureId value="13" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- o  -->
+					<textureId value="14" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- p  -->
+					<textureId value="15" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- q  -->
+					<textureId value="16" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- r  -->
+					<textureId value="17" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- s  -->
+					<textureId value="18" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- t  -->
+					<textureId value="19" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- u  -->
+					<textureId value="20" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- v  -->
+					<textureId value="21" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+				<Item> <!-- w  -->
+					<textureId value="22" />
+					<timeCycleMod>glasses_black</timeCycleMod>
+					<intensity value="0.5000000" />
+				</Item>
+			</timeCycleMods>
+			<audioId>
+			</audioId>
+			<flags value="0" />
+			<fpsPropModel>Prop_Mask_motobike_b</fpsPropModel>
+			<fpsPropModelOffset x="0.000000" y="-0.023000" z="-0.045000" />
+			<seWeather value="1.0" />
+			<seEnvironment value="1.0" />
+			<seDamage value="1.0" />
+			<putOnAnim>
+				<timeCycleMod>DefaultBlinkIntro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.6" />
+			</putOnAnim>
+			<takeOffAnim>
+				<timeCycleMod>DefaultBlinkOutro</timeCycleMod>
+				<maxIntensity value="1.0" />
+				<duration value="0.4" />
+				<delay value="0.1" />
+			</takeOffAnim>
+		</Item>
+        <Item>
+          <!-- 002 morph -->
+          <localIndex value="2" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 003 Painted Hockey -->
+          <localIndex value="3" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- s -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- t -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- u -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- v -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- w -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- x -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 004 Ballistic -->
+          <localIndex value="4" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- t  -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- u  -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- v  -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>glasses_blue</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- w  -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- x  -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- y  -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- z  -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 005 spec ops -->
+          <localIndex value="5" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>          
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		 
+        </Item>
+        <Item>
+          <!-- 006 Hockey Gingerbread -->
+          <localIndex value="6" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 007 Falseface -->
+          <localIndex value="7" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>	  
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>		  
+        </Item>
+        <Item>
+          <!-- 008 Ballistic Gas -->
+          <localIndex value="8" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 009 Tactical Respirator -->
+          <localIndex value="9" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- e  -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- f  -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- g  -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- h  -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- i  -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- j  -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- k  -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- l  -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- m  -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- n  -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- o  -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- p  -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- q  -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item>
+            <!-- r  -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item> 
+            <!-- s  -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.3" />
+            </Item> 
+		  </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 010 Krumpus -->
+          <localIndex value="10" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+            <!-- d  -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item> 
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel></fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />		  
+		  <tcModFadeOffSecs value="80.0f" />
+		  <tcModInterpType>FPTC_POW4</tcModInterpType>
+		</Item>
+        <Item>
+          <!-- 011 NV Comms -->
+          <localIndex value="11" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>mp_m_christmas2017</dlcHash>
+          <timeCycleMods>
+		    <!-- a -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- b -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- c -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- d -->
+            <Item>
+              <textureId value="3" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- e -->
+            <Item>
+              <textureId value="4" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- f -->
+            <Item>
+              <textureId value="5" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- g -->
+            <Item>
+              <textureId value="6" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- h -->
+            <Item>
+              <textureId value="7" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- i -->
+            <Item>
+              <textureId value="8" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- j -->
+            <Item>
+              <textureId value="9" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- k -->
+            <Item>
+              <textureId value="10" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- l -->
+            <Item>
+              <textureId value="11" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- m -->
+            <Item>
+              <textureId value="12" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- n -->
+            <Item>
+              <textureId value="13" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- o -->
+            <Item>
+              <textureId value="14" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- p -->
+            <Item>
+              <textureId value="15" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- q -->
+            <Item>
+              <textureId value="16" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- r -->
+            <Item>
+              <textureId value="17" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- s -->
+            <Item>
+              <textureId value="18" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- t -->
+            <Item>
+              <textureId value="19" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- u -->
+            <Item>
+              <textureId value="20" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- v -->
+            <Item>
+              <textureId value="21" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- w -->
+            <Item>
+              <textureId value="22" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- x -->
+            <Item>
+              <textureId value="23" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- y -->
+            <Item>
+              <textureId value="24" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+		    <!-- z -->
+            <Item>
+              <textureId value="25" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+      </objects>
+	</Item>
+  </peds>
+</FirstPersonAssetDataManager>

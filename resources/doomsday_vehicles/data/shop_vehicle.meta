@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+  <Vehicles>
+	<Item>
+	  <lockHash>CU_VEH_AKULA</lockHash>
+	  <modelNameHash>akula</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>AKULA</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_AUTARCH</lockHash>
+	  <modelNameHash>autarch</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>AUTARCH</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_AVENGER</lockHash>
+	  <modelNameHash>avenger</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>AVENGER</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_BARRAGE</lockHash>
+	  <modelNameHash>barrage</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>BARRAGE</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_CHERNOBOG</lockHash>
+	  <modelNameHash>chernobog</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>CHERNOBOG</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_COMET4</lockHash>
+	  <modelNameHash>comet4</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>COMET4</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_COMET5</lockHash>
+	  <modelNameHash>comet5</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>COMET5</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DELUXO</lockHash>
+	  <modelNameHash>deluxo</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DELUXO</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_GT500</lockHash>
+	  <modelNameHash>gt500</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>GT500</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_HERMES</lockHash>
+	  <modelNameHash>hermes</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>HERMES</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_HUSTLER</lockHash>
+	  <modelNameHash>hustler</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>HUSTLER</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_KAMACHO</lockHash>
+	  <modelNameHash>kamacho</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>KAMACHO</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_KHANJALI</lockHash>
+	  <modelNameHash>khanjali</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>KHANJALI</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_NEON</lockHash>
+	  <modelNameHash>neon</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>NEON</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_PARIAH</lockHash>
+	  <modelNameHash>pariah</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>PARIAH</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_RAIDEN</lockHash>
+	  <modelNameHash>raiden</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>RAIDEN</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_REVOLTER</lockHash>
+	  <modelNameHash>revolter</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>REVOLTER</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_RIATA</lockHash>
+	  <modelNameHash>riata</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>RIATA</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_RIOT2</lockHash>
+	  <modelNameHash>riot2</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>RIOT2</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_SAVESTRA</lockHash>
+	  <modelNameHash>savestra</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>SAVESTRA</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_SC1</lockHash>
+	  <modelNameHash>sc1</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>SC1</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_SENTINEL3</lockHash>
+	  <modelNameHash>sentinel3</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>SENTINEL3</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_STREITER</lockHash>
+	  <modelNameHash>streiter</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>STREITER</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_STROMBERG</lockHash>
+	  <modelNameHash>stromberg</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>STROMBERG</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_THRUSTER</lockHash>
+	  <modelNameHash>thruster</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>THRUSTER</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_VISERIS</lockHash>
+	  <modelNameHash>viseris</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>VISERIS</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_VOLATOL</lockHash>
+	  <modelNameHash>volatol</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>VOLATOL</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_YOSEMITE</lockHash>
+	  <modelNameHash>yosemite</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>YOSEMITE</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_Z190</lockHash>
+	  <modelNameHash>z190</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>Z190</textLabel>
+	  <vehicleMods></vehicleMods>
+	</Item>
+  </Vehicles>	
+</ShopVehicleDataArray>

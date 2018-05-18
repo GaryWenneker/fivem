@@ -1,0 +1,19 @@
+In this pack:
+
+police		NL Politie VW Touran			Vapid Police Cruiser
+police2		NL Politie VW Touran (2007)		Vapid Police Buffalo
+police3		NL Politie Mercedes C250		Vapid Police Interceptor
+police4		NL Politie Golf (unmarked)		Vapid Unmarked Police Cruiser
+polmav		NL Politie Helicopter			Western Mavrick (Police)
+predator	NL Politie Speedboat			Shitzu Predator (Police)
+fbi		NL Politie Audi RS6 (unmarked)		Bravado Buffalo (FIB)
+policeold1	NL Politie Toyota SUV			Declasse Police Rancher (Snow)
+policeold2	NL Politie VW Touareg			Albany Police Roadcruiser (Snow)
+policeb		NL Politie Motorfiets			Western Police Bike
+scorcher	NL Politie Fiets			Scorcher
+sentinel	Audi S5 (2017)				Ubermacht Sentinel
+
+
+Not in this pack but available:
+
+policeold2	NL Politie VW Transporter 6		Albany Police Roadcruiser (Snow)

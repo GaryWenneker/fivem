@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+  	<Item>CU_VEH_AKULA</Item>
+  	<Item>CU_VEH_AUTARCH</Item>
+  	<Item>CU_VEH_AVENGER</Item>
+  	<Item>CU_VEH_BARRAGE</Item>
+  	<Item>CU_VEH_CHERNOBOG</Item>
+  	<Item>CU_VEH_COMET4</Item>
+	<Item>CU_VEH_COMET5</Item>
+  	<Item>CU_VEH_DELUXO</Item>
+  	<Item>CU_VEH_GT500</Item>
+  	<Item>CU_VEH_HERMES</Item>
+  	<Item>CU_VEH_HUSTLER</Item>
+  	<Item>CU_VEH_KAMACHO</Item>
+  	<Item>CU_VEH_KHANJALI</Item>
+  	<Item>CU_VEH_NEON</Item>
+  	<Item>CU_VEH_PARIAH</Item>
+  	<Item>CU_VEH_RAIDEN</Item>
+  	<Item>CU_VEH_REVOLTER</Item>
+  	<Item>CU_VEH_RIATA</Item>
+  	<Item>CU_VEH_RIOT2</Item>
+  	<Item>CU_VEH_SAVESTRA</Item>
+  	<Item>CU_VEH_SC1</Item>
+  	<Item>CU_VEH_SENTINEL3</Item>
+  	<Item>CU_VEH_STREITER</Item>
+  	<Item>CU_VEH_STROMBERG</Item>
+  	<Item>CU_VEH_THRUSTER</Item>
+	<Item>CU_VEH_VISERIS</Item>
+  	<Item>CU_VEH_VOLATOL</Item>
+  	<Item>CU_VEH_YOSEMITE</Item>
+  	<Item>CU_VEH_Z190</Item>
+	<Item>CU_WEP_BULLPUPRIFLE_MK2</Item>
+	<Item>CU_WEP_DOUBLEACTION</Item>
+	<Item>CU_WEP_MARKSMANRIFLE_MK2</Item>
+	<Item>CU_WEP_PUMPSHOTGUN_MK2</Item>
+	<Item>CU_WEP_REVOLVER_MK2</Item>
+	<Item>CU_WEP_SNSPISTOL_MK2</Item>
+	<Item>CU_WEP_SPECIALCARBINE_MK2</Item>
+	<Item>CU_GANGOPS_CLOTHES</Item>
+	<Item>CU_XMAS5_CLOTHES</Item>
+	<Item>CU_XMAS5_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
