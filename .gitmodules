@@ -1,2 +1,4 @@
 [submodule "resources/[esx]/esx_accessories"]
 	url = https://github.com/ESX-Org/esx_accessories.git
+[submodule "resources/[esx]/esx_billing"]
+	url = https://github.com/ESX-Org/esx_billing.git
