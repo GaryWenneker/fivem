@@ -44,3 +44,17 @@
 	url = https://github.com/ESX-Org/esx_status.git
 [submodule "resources/[esx]/esx_weashops"]
 	url = https://github.com/ESX-Org/esx_weashops.git
+[submodule "resources/[esx]/esx_addonaccount"]
+	url = https://github.com/ESX-Org/esx_addonaccount.git
+[submodule "resources/[esx]/esx_atm"]
+	url = https://github.com/ESX-Org/esx_atm.git
+[submodule "resources/[esx]/esx_sit"]
+	url = https://github.com/ESX-Org/esx_sit.git
+[submodule "resources/[esx]/esx_service"]
+	url = https://github.com/ESX-Org/esx_service.git
+[submodule "resources/[esx]/esx_identity"]
+	url = https://github.com/ESX-Org/esx_identity.git
+[submodule "resources/[esx]/esx_datastore"]
+	url = https://github.com/ESX-Org/esx_datastore.git
+[submodule "resources/[esx]/esx_barbershop"]
+	url = https://github.com/ESX-Org/esx_barbershop.git
