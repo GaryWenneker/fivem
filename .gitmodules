@@ -2,3 +2,45 @@
 	url = https://github.com/ESX-Org/esx_accessories.git
 [submodule "resources/[esx]/esx_billing"]
 	url = https://github.com/ESX-Org/esx_billing.git
+[submodule "resources/[esx]/esx_clotheshop"]
+	url = https://github.com/ESX-Org/esx_clotheshop.git
+[submodule "resources/instance"]
+	url = https://github.com/ESX-Org/instance.git
+[submodule "resources/skinchanger"]
+	url = https://github.com/ESX-Org/skinchanger.git
+[submodule "resources/cron"]
+	url = https://github.com/ESX-Org/cron.git
+[submodule "resources/[esx]/esx_bankerjob"]
+	url = https://github.com/ESX-Org/esx_bankerjob.git
+[submodule "resources/[esx]/esx_drugs"]
+	url = https://github.com/ESX-Org/esx_drugs.git
+[submodule "resources/[esx]/esx_garage"]
+	url = https://github.com/ESX-Org/esx_garage.git
+[submodule "resources/[esx]/esx_holdup"]
+	url = https://github.com/ESX-Org/esx_holdup.git
+[submodule "resources/[esx]/esx_joblisting"]
+	url = https://github.com/ESX-Org/esx_joblisting.git
+[submodule "resources/[esx]/esx_jobs"]
+	url = https://github.com/ESX-Org/esx_jobs.git
+[submodule "resources/[esx]/esx_license"]
+	url = https://github.com/ESX-Org/esx_license.git
+[submodule "resources/[esx]/esx_lscustom"]
+	url = https://github.com/ESX-Org/esx_lscustom.git
+[submodule "resources/[esx]/esx_mask"]
+	url = https://github.com/ESX-Org/esx_mask.git
+[submodule "resources/[esx]/esx_mecanojob"]
+	url = https://github.com/ESX-Org/esx_mecanojob.git
+[submodule "resources/[esx]/esx_policejob"]
+	url = https://github.com/ESX-Org/esx_policejob.git
+[submodule "resources/[esx]/esx_property"]
+	url = https://github.com/ESX-Org/esx_property.git
+[submodule "resources/[esx]/esx_realestateagentjob"]
+	url = https://github.com/ESX-Org/esx_realestateagentjob.git
+[submodule "resources/[esx]/esx_skin"]
+	url = https://github.com/ESX-Org/esx_skin.git
+[submodule "resources/[esx]/esx_society"]
+	url = https://github.com/ESX-Org/esx_society.git
+[submodule "resources/[esx]/esx_status"]
+	url = https://github.com/ESX-Org/esx_status.git
+[submodule "resources/[esx]/esx_weashops"]
+	url = https://github.com/ESX-Org/esx_weashops.git
